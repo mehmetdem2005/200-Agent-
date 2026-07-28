@@ -3,8 +3,10 @@ name: RigForge Android APK
 on:
   push:
     branches:
+      - main
       - agent/mobile-rig-foundation
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
