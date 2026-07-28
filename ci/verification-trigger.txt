@@ -1,2 +1,3 @@
 RigForge APK verification run: 2026-07-28
-Diagnostics pass: 2
+Diagnostics pass: 3
+Compose weight import fix applied.
